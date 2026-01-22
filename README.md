@@ -2,6 +2,9 @@
 
 A premium, bilingual (English/French) website for Phoenix FC, built with Next.js, Tailwind CSS, and TypeScript.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fomaridmhammed%2Fphoenix-fc-)
+
+
 ## Features
 - **Modern "Sports Premium" Design**: Dark mode aesthetic with Gold/Green accents.
 - **Bilingual Support**: Full English & French support using `next-intl`.
