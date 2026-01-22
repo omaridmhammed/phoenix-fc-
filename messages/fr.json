@@ -1,0 +1,38 @@
+{
+    "Navigation": {
+        "home": "Accueil",
+        "team": "Équipe",
+        "fixtures": "Calendrier",
+        "news": "Actualités",
+        "club": "Club",
+        "tickets": "Billetterie",
+        "academy": "Académie"
+    },
+    "Home": {
+        "heroTitle": "Renaître de ses Cendres",
+        "heroSubtitle": "Le site officiel du Phoenix FC",
+        "matchdays": "Matchs",
+        "joinUs": "Rejoignez-nous",
+        "nextMatch": "Prochain Match",
+        "latestNews": "Dernières Actualités",
+        "featuredPlayers": "Joueurs à la Une",
+        "ourValues": "Nos Valeurs",
+        "sponsors": "Partenaires Officiels"
+    },
+    "Common": {
+        "readMore": "Lire la suite",
+        "tickets": "Billets",
+        "contact": "Contact",
+        "followUs": "Suivez-nous"
+    },
+    "Club": {
+        "title": "Notre Histoire",
+        "stadium": "Le Brasier",
+        "values": "Nos Valeurs"
+    },
+    "Academy": {
+        "title": "Futurs Stars",
+        "subtitle": "Former la prochaine génération.",
+        "join": "Rejoindre l'Académie"
+    }
+}

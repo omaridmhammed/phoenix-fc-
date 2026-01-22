@@ -1,0 +1,38 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "team": "Team",
+    "fixtures": "Fixtures",
+    "news": "News",
+    "club": "Club",
+    "tickets": "Tickets",
+    "academy": "Academy"
+  },
+  "Home": {
+    "heroTitle": "Rise From The Ashes",
+    "heroSubtitle": "The official website of Phoenix FC",
+    "matchdays": "Matchdays",
+    "joinUs": "Join Us",
+    "nextMatch": "Next Match",
+    "latestNews": "Latest News",
+    "featuredPlayers": "Featured Players",
+    "ourValues": "Our Values",
+    "sponsors": "Official Partners"
+  },
+  "Common": {
+    "readMore": "Read More",
+    "tickets": "Tickets",
+    "contact": "Contact",
+    "followUs": "Follow Us"
+  },
+  "Club": {
+    "title": "Our History",
+    "stadium": "The Fire Pit",
+    "values": "Core Values"
+  },
+  "Academy": {
+    "title": "Future Stars",
+    "subtitle": "Training the next generation of talent.",
+    "join": "Join the Academy"
+  }
+}
